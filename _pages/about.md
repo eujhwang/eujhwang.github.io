@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software engineer at Naver Corp and am working on knowledge base. 
+I'm a software engineer working on knowledge base at Naver Corp. 
 Previously, I completed my MS in Computer Science at UMass Amherst and completed my Bachelor's at Kwangwoon University. 
 
 I'm currently working on question answering problems on knowledge graph using geometric embeddings 
