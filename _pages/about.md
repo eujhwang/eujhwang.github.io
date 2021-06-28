@@ -1,20 +1,12 @@
-[comment]: <> (---)
-
-[comment]: <> (permalink: /)
-
-[comment]: <> (title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites")
-
-[comment]: <> (excerpt: "About me")
-
-[comment]: <> (author_profile: true)
-
-[comment]: <> (redirect_from: )
-
-[comment]: <> (  - /about/)
-
-[comment]: <> (  - /about.html)
-
-[comment]: <> (---)
+---
+permalink: /
+title: "Test"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I'm a software engineer at Naver Corp and am working on knowledge base. 
 Previously, I completed my MS in Computer Science at UMass Amherst and completed my Bachelor's at Kwangwoon University. 
