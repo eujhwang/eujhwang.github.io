@@ -15,8 +15,8 @@ I'm currently working on question answering problems on knowledge graph using ge
 and relation extraction problems using box embedding at Information Extraction and Synthesis Laboratory (IESL).
 I've also worked with IBM Research on Graph neural networks problems on Open Graph Benchmark datasets.
 
-I'm particularly interested in applying graph neural networks to knowledge graphs and understanding raw texts efficiently.
-Ultimately, I would like to develop a simple yet effective model that can improve search results and that can be applied to industry as well.
+I'm particularly interested in applying graph neural networks to knowledge graphs and efficiently understanding raw texts.
+Ultimately, I would like to develop a simple yet effective model that not only can improve search results, but also can be applied to industry.
 
 [this repository](https://github.com/academicpages/academicpages.github.io)
 
