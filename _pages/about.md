@@ -20,19 +20,39 @@ I primarily worked with members at Information Extraction and Synthesis Laborato
 [CV](https://eujhwang.github.io/files/eunjeong_research_cv.pdf)
 
 
-Projects
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction (Under Review at NeurIPS 2021)
+   
+   **Eunjeong Hwang**, Anonymous 
+2. Interdependency between the stock market and financial news
+   
+   **Eunjeong Hwang**, Yong-Hyuk Kim 
 
-Site-wide configuration
+Projects
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Joint constrained learning using box embedding**
 
+ Implemented relation extraction model using box embedding. 
+ Effectively reduced violated constraints in relations labels, which is much better than our baseline vector models.
+
+**Virtual node augmented graph neural networks for link prediction**
+
+ Implemented virtual node model with graph neural networks for link prediction tasks on Open Graph Benchmark (OGB) datasets.
+ Our model outperformed not only standard GNN models, such as GCN, SAGE, and GIN, but also recent complex models, such as Position aware-GNN and APPNP.  
+ Under review at NeurIPS 2021.
+
+**Question answering on knowledge graph using box embedding**
+
+  Implemented question answering model by embedding queries as probabilistic boxes using gumbel distribution.
+  Our model was more mathematically explainable than Query2Box model and produced similar performance.
+
+**Interdependency between stock market and financial news articles**
+  
+  Analyzed the interdependency between stock market and financial articles using sentiment analysis. 
+  Discovered trends that stock prices respond to social issues before the articles do. 
+  Published IEEE BigData 2019 workshop
+  
 Create content & metadata
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
