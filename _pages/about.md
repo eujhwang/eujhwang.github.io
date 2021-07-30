@@ -22,33 +22,27 @@ I primarily worked with members at Information Extraction and Synthesis Laborato
 
 Publications
 ------
-1. Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction (Under Review at NeurIPS 2021)
-   
+1. Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction (Under Review at NeurIPS 2021)\
    **Eunjeong Hwang**, Anonymous 
-2. Interdependency between the stock market and financial news
-   
+2. Interdependency between the stock market and financial news (IEEE BigData2019 workshop)\
    **Eunjeong Hwang**, Yong-Hyuk Kim 
 
 Projects
 ------
-**Joint constrained learning using box embedding**
-
+**Joint constrained learning using box embedding**\
  Implemented relation extraction model using box embedding. 
  Effectively reduced violated constraints in relations labels, which is much better than our baseline vector models.
 
-**Virtual node augmented graph neural networks for link prediction**
-
+**Virtual node augmented graph neural networks for link prediction**\
  Implemented virtual node model with graph neural networks for link prediction tasks on Open Graph Benchmark (OGB) datasets.
  Our model outperformed not only standard GNN models, such as GCN, SAGE, and GIN, but also recent complex models, such as Position aware-GNN and APPNP.  
  Under review at NeurIPS 2021.
 
-**Question answering on knowledge graph using box embedding**
-
+**Question answering on knowledge graph using box embedding**\
   Implemented question answering model by embedding queries as probabilistic boxes using gumbel distribution.
   Our model was more mathematically explainable than Query2Box model and produced similar performance.
 
-**Interdependency between stock market and financial news articles**
-  
+**Interdependency between stock market and financial news articles**\
   Analyzed the interdependency between stock market and financial articles using sentiment analysis. 
   Discovered trends that stock prices respond to social issues before the articles do. 
   Published IEEE BigData 2019 workshop
