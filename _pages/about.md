@@ -35,7 +35,6 @@ Projects
 **Virtual node augmented graph neural networks for link prediction**\
  Implemented virtual node model with graph neural networks for link prediction tasks on Open Graph Benchmark (OGB) datasets.
  Our model outperformed not only standard GNN models, such as GCN, SAGE, and GIN, but also recent complex models, such as Position aware-GNN and APPNP.  
- Under review at NeurIPS 2021.
 
 **Question answering on knowledge graph using box embedding**\
   Implemented question answering model by embedding queries as probabilistic boxes using gumbel distribution.
@@ -44,7 +43,6 @@ Projects
 **Interdependency between stock market and financial news articles**\
   Analyzed the interdependency between stock market and financial articles using sentiment analysis. 
   Discovered trends that stock prices respond to social issues before the articles do. 
-  Published IEEE BigData 2019 workshop
 
 Research Experiences
 ------
