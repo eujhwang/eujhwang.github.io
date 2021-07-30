@@ -11,14 +11,13 @@ redirect_from:
 I'm a software engineer working on knowledge base at Naver Corp. 
 Previously, I completed my MS in Computer Science at UMass Amherst and completed my Bachelor's at Kwangwoon University. 
 
-I'm currently working on question answering problems on knowledge graph using geometric embeddings 
-and relation extraction problems using box embedding at Information Extraction and Synthesis Laboratory (IESL).
-I've also worked with IBM Research on Graph neural networks problems on Open Graph Benchmark datasets.
+I'm particularly interested in graph structured data with graph neural networks or knowledge graphs and understanding raw texts.
+Ultimately, I would like to develop a simple yet efficient model that can be easily applied to industry with a decent performance.
 
-I'm particularly interested in applying graph neural networks to knowledge graphs and efficiently understanding raw texts.
-Ultimately, I would like to develop a simple yet effective model that not only can improve search results, but also can be applied to industry.
+My most recent works are focused on relation extraction and question answering using geometric embedding and graph neural networks.
+I primarily worked with members at Information Extraction and Synthesis Laboratory (IESL) on geometric embedding and IBM Research on Graph neural networks.
 
-[this repository](https://github.com/academicpages/academicpages.github.io)
+[CV](https://eujhwang.github.io/files/eunjeong_research_cv.pdf)
 
 
 Projects
