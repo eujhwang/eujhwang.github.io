@@ -48,24 +48,24 @@ Projects
 
 Research Experiences
 ------
-**\[2020.05 - 2020.08\] Information Extraction and Synthesis Laboratory (IESL), UMass Amherst **\
+**Information Extraction and Synthesis Laboratory (IESL), UMass Amherst, 2020.05 - 2020.08**\
 Research Intern
   
 Work Experiences
 ------
-**\[2021.03 - Present\] Naver Corp., Seongnam, South Korea **\
+**Naver Corp., Seongnam, South Korea, 2021.03 - Present**\
 Software Engineer at Knowledge Base team
 
-**\[2018.01 - 2019.04\] IBM, Seoul, South Korea **\
+**IBM, Seoul, South Korea, 2018.01 - 2019.04**\
 Application Developer
 
-**\[2017.09 - 2017.12\] IBM, Seoul, South Korea **\
+**IBM, Seoul, South Korea, 2017.09 - 2017.12**\
 Application Developer Intern
 
-**\[2017.01 - 2017.02\] The development factory, Sydney, Australia **\
-Software Enginner Intern
+**The Development Factory, Sydney, Australia, 2017.01 - 2017.02**\
+Software Engineer Intern
 
 Teaching Experience
 ------
-**\[2021.02 - 2021.05\] University of Massachussets-Amherst
+**University of Massachussets-Amherst, 2021.02 - 2021.05**\
 Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Connor)
