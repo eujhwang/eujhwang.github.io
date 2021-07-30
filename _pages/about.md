@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,7 @@ I primarily worked with members at Information Extraction and Synthesis Laborato
 
 
 Publications
-======
+------
 1. Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction (Under Review at NeurIPS 2021)
    
    **Eunjeong Hwang**, Anonymous 
