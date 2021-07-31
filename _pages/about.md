@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm a software engineer working on knowledge base at Naver Corp. 
-Previously, I completed my MS in Computer Science at UMass Amherst and completed my Bachelor's at Kwangwoon University. 
+Previously, I completed my M.S. in Computer Science at UMass Amherst and completed my B.S. at Kwangwoon University. 
 
 I'm particularly interested in graph structured data with graph neural networks or knowledge graphs and understanding raw texts.
 Ultimately, I would like to develop a simple yet efficient model that can be easily applied to industry with a decent performance.
@@ -51,7 +51,7 @@ Research Intern
   
 Work Experiences
 ------
-**Naver Corp., S. Korea, 2021.03 - Present**\
+**Naver, S. Korea, 2021.03 - Present**\
 Software Engineer at Knowledge Base team
 
 **IBM, S. Korea, 2018.01 - 2019.04**\
