@@ -51,16 +51,16 @@ Research Intern
   
 Work Experiences
 ------
-**Naver Corp., Seongnam, South Korea, 2021.03 - Present**\
+**Naver Corp., S. Korea, 2021.03 - Present**\
 Software Engineer at Knowledge Base team
 
-**IBM, Seoul, South Korea, 2018.01 - 2019.04**\
+**IBM, S. Korea, 2018.01 - 2019.04**\
 Application Developer
 
-**IBM, Seoul, South Korea, 2017.09 - 2017.12**\
+**IBM, S. Korea, 2017.09 - 2017.12**\
 Application Developer Intern
 
-**The Development Factory, Sydney, Australia, 2017.01 - 2017.02**\
+**The Development Factory, Australia, 2017.01 - 2017.02**\
 Software Engineer Intern
 
 Teaching Experience
