@@ -9,32 +9,35 @@ redirect_from:
 ---
 
 I'm a software engineer working on knowledge base at Naver Corp. 
-Previously, I completed my M.S. in Computer Science at UMass Amherst and completed my B.S. at Kwangwoon University. 
 
-I'm particularly interested in graph structured data with graph neural networks or knowledge graphs and understanding raw texts.
-Ultimately, I would like to develop a simple yet efficient model that can be easily applied to industry with a decent performance.
+I'm particularly interested in understanding and finding new insights from unstructured texts by transforming the text to structured form.
+Ultimately, I would like to develop a simple, robust, and efficient model with an interpretable inference process that can be easily applied to industry.
 
-My most recent works are focused on relation extraction and question answering using geometric embedding and graph neural networks.
-I primarily worked with members at Information Extraction and Synthesis Laboratory (IESL) on geometric embedding and IBM Research on Graph neural networks.
+My most recent works are focused on relation extraction, geometric embedding, graph neural networks, and knowledge graphs.
+I primarily worked with members at Information Extraction and Synthesis Laboratory (IESL) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
 
 [CV](https://eujhwang.github.io/files/eunjeong_research_cv.pdf)
 
 Publications
 ------
-1. Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction (Under Review at NeurIPS 2021)\
-   **Eunjeong Hwang**, Anonymous 
-2. Interdependency between the stock market and financial news (IEEE BigData2019 workshop)\
-   **Eunjeong Hwang**, Yong-Hyuk Kim 
-
+1. [Event-Event Relation Extraction using Probabilistic Box Embedding](https://openreview.net/forum?id=USuyAFWEuY) (Under Review at *ARR 2022*)\
+   **Eunjeong Hwang**, Jay-Yoon Lee, Tianyi Yang, Dhruvesh Patel, Dongxu Zhang, Andrew McCallum
+      
+2. [Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/forum?id=ETiaOyNwJW) (Under Review at *ICLR 2022*)\
+   **Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma
+   
+3. [Interdependency between the stock market and financial news](https://www.computer.org/csdl/proceedings-article/big-data/2019/09006533/1hJsuZdq0la) \
+   **Eunjeong Hwang**, Yong-Hyuk Kim, *IEEE BigData2019 workshop*
+   
 Projects
 ------
 **Joint constrained learning using box embedding**\
  Implemented relation extraction model using box embedding. 
- Effectively reduced violated constraints in relations labels, which is much better than our baseline vector models.
+ Effectively reduced constraint violations in relations labels by utilizing box's inherent ability of handling anti-symmetric relations, which pro much better than our baseline vector models.
 
 **Virtual node augmented graph neural networks for link prediction**\
- Implemented virtual node model with graph neural networks for link prediction tasks on Open Graph Benchmark (OGB) datasets.
- Our model outperformed not only standard GNN models, such as GCN, SAGE, and GIN, but also recent complex models, such as Position aware-GNN and APPNP.  
+ Proposed virtual node augmented graph neural networks by using single virtual node to multiple virtual nodes for link prediction to capture long-range dependencies in graphs.
+ Our model constantly produce better performance on large and dense graphs, such as ddi, collab, and ppa.  
 
 **Question answering on knowledge graph using box embedding**\
   Implemented question answering model by embedding queries as probabilistic boxes using gumbel distribution.
