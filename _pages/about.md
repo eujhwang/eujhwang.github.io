@@ -33,11 +33,12 @@ Projects
 ------
 **Joint constrained learning using box embedding**\
  Implemented relation extraction model using box embedding. 
- Effectively reduced constraint violations in relations labels by utilizing box's inherent ability of handling anti-symmetric relations, which pro much better than our baseline vector models.
+ Effectively reduced constraint violations in relations labels by utilizing box's inherent ability of handling anti-symmetric relations, 
+ which indicates the output from the model is more coherent than our baseline vector model.
 
 **Virtual node augmented graph neural networks for link prediction**\
  Proposed virtual node augmented graph neural networks by using single virtual node to multiple virtual nodes for link prediction to capture long-range dependencies in graphs.
- Our model constantly produce better performance on large and dense graphs, such as ddi, collab, and ppa.  
+ Our model constantly produce better performance on large and dense graphs, such as ddi, collab, and ppa (OGB benchmark datasets).   
 
 **Question answering on knowledge graph using box embedding**\
   Implemented question answering model by embedding queries as probabilistic boxes using gumbel distribution.
