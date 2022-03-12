@@ -20,14 +20,15 @@ I primarily worked with members at Information Extraction and Synthesis Laborato
 
 Publications
 ------
-1. [Event-Event Relation Extraction using Probabilistic Box Embedding](https://openreview.net/forum?id=USuyAFWEuY) (Under Review at *ARR 2022*)\
-   **Eunjeong Hwang**, Jay-Yoon Lee, Tianyi Yang, Dhruvesh Patel, Dongxu Zhang, Andrew McCallum
+[Event-Event Relation Extraction using Probabilistic Box Embedding](https://openreview.net/forum?id=USuyAFWEuY) \
+**Eunjeong Hwang**, Jay-Yoon Lee, Tianyi Yang, Dhruvesh Patel, Dongxu Zhang, Andrew McCallum \
+In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (To Appear) 2022
       
-2. [Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/forum?id=ETiaOyNwJW) (Under Review at *ICLR 2022*)\
-   **Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma
+[Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/forum?id=ETiaOyNwJW) (Under Review at *ICML 2022*)\
+**Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma
    
-3. [Interdependency between the stock market and financial news](https://www.computer.org/csdl/proceedings-article/big-data/2019/09006533/1hJsuZdq0la) \
-   **Eunjeong Hwang**, Yong-Hyuk Kim, *IEEE BigData2019 workshop*
+[Interdependency between the stock market and financial news](https://www.computer.org/csdl/proceedings-article/big-data/2019/09006533/1hJsuZdq0la) \
+**Eunjeong Hwang**, Yong-Hyuk Kim, *IEEE BigData2019 workshop*
    
 Projects
 ------
