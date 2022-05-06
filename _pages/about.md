@@ -20,15 +20,17 @@ I primarily worked with members at Information Extraction and Synthesis Laborato
 
 Publications
 ------
+[Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/forum?id=ETiaOyNwJW) \
+**Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma \
+(Under Review at *ICML 2022*)
+
 [Event-Event Relation Extraction using Probabilistic Box Embedding](https://openreview.net/forum?id=USuyAFWEuY) \
 **Eunjeong Hwang**, Jay-Yoon Lee, Tianyi Yang, Dhruvesh Patel, Dongxu Zhang, Andrew McCallum \
-In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (To Appear) 2022
-      
-[Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/forum?id=ETiaOyNwJW) (Under Review at *ICML 2022*)\
-**Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma
+*ACL 2022 (To Appear)*
    
 [Interdependency between the stock market and financial news](https://www.computer.org/csdl/proceedings-article/big-data/2019/09006533/1hJsuZdq0la) \
-**Eunjeong Hwang**, Yong-Hyuk Kim, *IEEE BigData2019 workshop*
+**Eunjeong Hwang**, Yong-Hyuk Kim \
+*IEEE BigData2019 workshop*
    
 Projects
 ------
