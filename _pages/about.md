@@ -8,25 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software engineer working on knowledge base at Naver Corp. 
+I'm a PhD student at University of British Columbia and my supervisor is [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
 
 I'm particularly interested in understanding and finding new insights from unstructured texts by transforming the text to structured form.
 Ultimately, I would like to develop a simple, robust, and efficient model with an interpretable inference process that can be easily applied to industry.
 
 My most recent works are focused on relation extraction, geometric embedding, graph neural networks, and knowledge graphs.
-I primarily worked with members at Information Extraction and Synthesis Laboratory (IESL) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
+I primarily worked with members at [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
+
+I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year 
+and I worked for IBM as an application developer for a year before starting Master's degree.
 
 [CV](https://eujhwang.github.io/files/eunjeong_research_cv.pdf)
 
 Publications
 ------
-[Revisiting Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/forum?id=ETiaOyNwJW) \
+[An Analysis of Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/pdf?id=dI6KBKNRp7) \
 **Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma \
-(Under Review at *ICML 2022*)
+*The First Learning on Graphs 2022* (Spotlight) [youtube](https://www.youtube.com/watch?v=b7ak7FgZQa4&t=5273s), [code](https://github.com/eujhwang/vn-analysis)
 
-[Event-Event Relation Extraction using Probabilistic Box Embedding](https://openreview.net/forum?id=USuyAFWEuY) \
+[Event-Event Relation Extraction using Probabilistic Box Embedding](https://aclanthology.org/2022.acl-short.26/) \
 **Eunjeong Hwang**, Jay-Yoon Lee, Tianyi Yang, Dhruvesh Patel, Dongxu Zhang, Andrew McCallum \
-*ACL 2022 (To Appear)*
+*ACL-short 2022* [code](https://github.com/iesl/ce2ere)
    
 [Interdependency between the stock market and financial news](https://www.computer.org/csdl/proceedings-article/big-data/2019/09006533/1hJsuZdq0la) \
 **Eunjeong Hwang**, Yong-Hyuk Kim \
@@ -53,6 +56,9 @@ Projects
 
 Research Experiences
 ------
+**University of British Columbia, 2022.09 - Present** \
+Research Assistant (w/ Dr. Vered Shwartz)
+
 **Information Extraction and Synthesis Laboratory (IESL), UMass Amherst, 2020.05 - 2020.08**\
 Research Intern
   
@@ -74,3 +80,7 @@ Teaching Experience
 ------
 **University of Massachussets-Amherst, 2021.02 - 2021.05**\
 Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Connor)
+
+Scholarships
+------
+**President's Academic Excellence Initiative PhD Award, 2022.09**
