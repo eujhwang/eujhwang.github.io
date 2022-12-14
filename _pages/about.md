@@ -25,34 +25,16 @@ Publications
 ------
 [An Analysis of Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/pdf?id=dI6KBKNRp7) \
 **Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma \
-*The First Learning on Graphs 2022* (Spotlight) [youtube](https://www.youtube.com/watch?v=b7ak7FgZQa4&t=5273s), [code](https://github.com/eujhwang/vn-analysis)
+*The First Learning on Graphs, 2022* (Spotlight) [youtube](https://www.youtube.com/watch?v=b7ak7FgZQa4&t=5273s), [code](https://github.com/eujhwang/vn-analysis)
 
 [Event-Event Relation Extraction using Probabilistic Box Embedding](https://aclanthology.org/2022.acl-short.26/) \
 **Eunjeong Hwang**, Jay-Yoon Lee, Tianyi Yang, Dhruvesh Patel, Dongxu Zhang, Andrew McCallum \
-*ACL-short 2022* [code](https://github.com/iesl/ce2ere)
+*ACL-short, 2022* [code](https://github.com/iesl/ce2ere)
    
 [Interdependency between the stock market and financial news](https://www.computer.org/csdl/proceedings-article/big-data/2019/09006533/1hJsuZdq0la) \
 **Eunjeong Hwang**, Yong-Hyuk Kim \
 *IEEE BigData2019 workshop*
    
-Projects
-------
-**Joint constrained learning using box embedding**\
- Implemented relation extraction model using box embedding. 
- Effectively reduced constraint violations in relations labels by utilizing box's inherent ability of handling anti-symmetric relations, 
- which indicates the output from the model is more coherent than our baseline vector model.
-
-**Virtual node augmented graph neural networks for link prediction**\
- Proposed virtual node augmented graph neural networks by using single virtual node to multiple virtual nodes for link prediction to capture long-range dependencies in graphs.
- Our model constantly produce better performance on large and dense graphs, such as ddi, collab, and ppa (OGB benchmark datasets).   
-
-**Question answering on knowledge graph using box embedding**\
-  Implemented question answering model by embedding queries as probabilistic boxes using gumbel distribution.
-  Our model was more mathematically explainable than Query2Box model and produced similar performance.
-
-**Interdependency between stock market and financial news articles**\
-  Analyzed the interdependency between stock market and financial articles using sentiment analysis. 
-  Discovered trends that stock prices respond to social issues before the articles do. 
 
 Research Experiences
 ------
@@ -81,6 +63,28 @@ Teaching Experience
 **University of Massachussets-Amherst, 2021.02 - 2021.05**\
 Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Connor)
 
-Scholarships
+Awards
 ------
-**President's Academic Excellence Initiative PhD Award, 2022.09**
+President's Academic Excellence Initiative PhD Award, UBC, 2022.09 \
+International Tuition Award, UBC, 2022.09 \
+Faculty of Science PhD Tuition Award, UBC, 2022.09
+
+
+Projects
+------
+**Joint constrained learning using box embedding**\
+ Implemented relation extraction model using box embedding. 
+ Effectively reduced constraint violations in relations labels by utilizing box's inherent ability of handling anti-symmetric relations, 
+ which indicates the output from the model is more coherent than our baseline vector model.
+
+**Virtual node augmented graph neural networks for link prediction**\
+ Proposed virtual node augmented graph neural networks by using single virtual node to multiple virtual nodes for link prediction to capture long-range dependencies in graphs.
+ Our model constantly produce better performance on large and dense graphs, such as ddi, collab, and ppa (OGB benchmark datasets).   
+
+**Question answering on knowledge graph using box embedding**\
+  Implemented question answering model by embedding queries as probabilistic boxes using gumbel distribution.
+  Our model was more mathematically explainable than Query2Box model and produced similar performance.
+
+**Interdependency between stock market and financial news articles**\
+  Analyzed the interdependency between stock market and financial articles using sentiment analysis. 
+  Discovered trends that stock prices respond to social issues before the articles do. 
