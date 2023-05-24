@@ -23,6 +23,10 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 Publications
 ------
+[MemeCap: A Dataset for Captioning and Interpreting Memes](https://arxiv.org/abs/2305.13703) \
+**Eunjeong Hwang**, Vered Shwartz \
+*arxiv preprint*
+
 [An Analysis of Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/pdf?id=dI6KBKNRp7) \
 **Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma \
 *The First Learning on Graphs, 2022* (Spotlight) [youtube](https://www.youtube.com/watch?v=b7ak7FgZQa4&t=5273s), [code](https://github.com/eujhwang/vn-analysis)
