@@ -23,9 +23,13 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 Publications
 ------
+[Aligning Language Models to User Opinions](https://arxiv.org/abs/2305.14929) \
+**Eunjeong Hwang**, Bodhisattwa Prasad Majumder*, Niket Tandon* \
+*arxiv preprint, 2023*
+
 [MemeCap: A Dataset for Captioning and Interpreting Memes](https://arxiv.org/abs/2305.13703) \
 **Eunjeong Hwang**, Vered Shwartz \
-*arxiv preprint*
+*arxiv preprint, 2023*
 
 [An Analysis of Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/pdf?id=dI6KBKNRp7) \
 **Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma \
