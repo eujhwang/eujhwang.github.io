@@ -12,7 +12,8 @@ I'm a PhD student at University of British Columbia and my supervisor is [Vered 
 
 I'm currently a research intern at MIT-IBM working on reasoning problem with structured representation of sentences.
 
-Before starting a PhD, I spent some time in industry, I worked for Naver in Knowledge Base team for about a year 
+Before starting a PhD, I primarily worked with members at [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
+I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year 
 and I worked for IBM as an application developer for a year before starting Master's degree.
 
 [//]: # (I'm particularly interested in understanding and finding new insights from unstructured texts by transforming the text to structured form.)
