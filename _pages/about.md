@@ -10,19 +10,29 @@ redirect_from:
 
 I'm a PhD student at University of British Columbia and my supervisor is [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
 
-I'm particularly interested in understanding and finding new insights from unstructured texts by transforming the text to structured form.
-Ultimately, I would like to develop a simple, robust, and efficient model with an interpretable inference process that can be easily applied to industry.
+I'm currently a research intern at MIT-IBM working on reasoning problem with structured representation of sentences.
 
-My most recent works are focused on relation extraction, geometric embedding, graph neural networks, and knowledge graphs.
-I primarily worked with members at [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
-
-I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year 
+Before starting a PhD, I spent some time in industry, I worked for Naver in Knowledge Base team for about a year 
 and I worked for IBM as an application developer for a year before starting Master's degree.
+
+[//]: # (I'm particularly interested in understanding and finding new insights from unstructured texts by transforming the text to structured form.)
+
+[//]: # (Ultimately, I would like to develop a simple, robust, and efficient model with an interpretable inference process that can be easily applied to industry.)
+
+[//]: # ()
+[//]: # (My most recent works are focused on relation extraction, geometric embedding, graph neural networks, and knowledge graphs.)
+
+[//]: # (I primarily worked with members at [Information Extraction and Synthesis Laboratory &#40;IESL&#41;]&#40;http://www.iesl.cs.umass.edu/&#41; and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.)
+
 
 [CV](https://eujhwang.github.io/files/eunjeong_research_cv.pdf)
 
 Publications
 ------
+Knowledge Graph Compression Enhances Diverse Commonsense Generation \
+**Eunjeong Hwang**, Veronika Thost, Vered Shwartz, Tengfei Ma \
+*In Submission, 2023*
+
 [Aligning Language Models to User Opinions](https://arxiv.org/abs/2305.14929) \
 **Eunjeong Hwang**, Bodhisattwa Prasad Majumder*, Niket Tandon* \
 *arxiv preprint, 2023*
@@ -48,6 +58,9 @@ Research Experiences
 ------
 **University of British Columbia, 2022.09 - Present** \
 Research Assistant (w/ Dr. Vered Shwartz)
+
+**MIT-IBM Research, 2023.07 - Present** \
+Research Intern (mentored by Veronika Thost and Dan Gutfreund)
 
 **Information Extraction and Synthesis Laboratory (IESL), UMass Amherst, 2020.05 - 2020.08**\
 Research Intern
