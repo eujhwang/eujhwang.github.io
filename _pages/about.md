@@ -72,7 +72,7 @@ Research Intern
   
 Work Experiences
 ------
-**Naver, S. Korea, 2021.03 - Present**\
+**Naver, S. Korea, 2021.03 - 2022.06**\
 Software Engineer at Knowledge Base team
 
 **IBM, S. Korea, 2018.01 - 2019.04**\
