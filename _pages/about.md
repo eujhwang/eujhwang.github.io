@@ -28,19 +28,23 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 [CV](https://eujhwang.github.io/files/eunjeong_research_cv.pdf)
 
+News
+------
+3 Papers accepted at EMNLP 2023!
+
 Publications
 ------
 Knowledge Graph Compression Enhances Diverse Commonsense Generation \
 **Eunjeong Hwang**, Veronika Thost, Vered Shwartz, Tengfei Ma \
-*In Submission, 2023*
+*Long paper @ EMNLP 2023*
 
 [Aligning Language Models to User Opinions](https://arxiv.org/abs/2305.14929) \
 **Eunjeong Hwang**, Bodhisattwa Prasad Majumder*, Niket Tandon* \
-*arxiv preprint, 2023*
+*Long paper @ Findings of EMNLP 2023*
 
 [MemeCap: A Dataset for Captioning and Interpreting Memes](https://arxiv.org/abs/2305.13703) \
 **Eunjeong Hwang**, Vered Shwartz \
-*arxiv preprint, 2023*
+*Long paper @ EMNLP 2023*
 
 [An Analysis of Virtual Nodes in Graph Neural Networks for Link Prediction](https://openreview.net/pdf?id=dI6KBKNRp7) \
 **Eunjeong Hwang**, Veronika Thost, Shib Sankar Dasgupta, Tengfei Ma \
