@@ -39,7 +39,7 @@ Knowledge Graph Compression Enhances Diverse Commonsense Generation \
 *Long paper @ EMNLP 2023*
 
 [Aligning Language Models to User Opinions](https://arxiv.org/abs/2305.14929) \
-**Eunjeong Hwang**, Bodhisattwa Prasad Majumder*, Niket Tandon* \
+**Eunjeong Hwang**, Bodhisattwa Prasad Majumder, Niket Tandon \
 *Long paper @ Findings of EMNLP 2023*
 
 [MemeCap: A Dataset for Captioning and Interpreting Memes](https://arxiv.org/abs/2305.13703) \
