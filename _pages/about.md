@@ -30,10 +30,14 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 News
 ------
-3 Papers accepted at EMNLP 2023!
+- 3 Papers accepted at EMNLP 2023!
 
 Publications
 ------
+InfluencerOpinion: Mining opinions from Interviews \
+**Eunjeong Hwang**, Niket Tandon, Bodhisattwa Prasad Majumder, Vered Shwartz \
+*Under Review*
+
 Knowledge Graph Compression Enhances Diverse Commonsense Generation \
 **Eunjeong Hwang**, Veronika Thost, Vered Shwartz, Tengfei Ma \
 *Long paper @ EMNLP 2023*
