@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD student at University of British Columbia and my supervisor is [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
 
-I'm currently a research intern at MIT-IBM working on reasoning problem with structured representation of sentences.
+My research interest is about incorporating implicit contexts into large language models.
 
 Before starting a PhD, I primarily worked with members at [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
 I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year 
@@ -30,6 +30,7 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 News
 ------
+- I'm co-organizing [Personalization of Generative AI workshop @ EACL 2024](https://genpersonalization.github.io/) to be held in Malta!
 - 3 Papers accepted at EMNLP 2023!
 
 Publications
@@ -38,15 +39,15 @@ InfluencerOpinion: Mining opinions from Interviews \
 **Eunjeong Hwang**, Niket Tandon, Bodhisattwa Prasad Majumder, Vered Shwartz \
 *Under Review*
 
-Knowledge Graph Compression Enhances Diverse Commonsense Generation \
+[Knowledge Graph Compression Enhances Diverse Commonsense Generation](https://aclanthology.org/2023.emnlp-main.37/) \
 **Eunjeong Hwang**, Veronika Thost, Vered Shwartz, Tengfei Ma \
 *Long paper @ EMNLP 2023*
 
-[Aligning Language Models to User Opinions](https://arxiv.org/abs/2305.14929) \
+[Aligning Language Models to User Opinions](https://aclanthology.org/2023.findings-emnlp.393/) \
 **Eunjeong Hwang**, Bodhisattwa Prasad Majumder, Niket Tandon \
 *Long paper @ Findings of EMNLP 2023*
 
-[MemeCap: A Dataset for Captioning and Interpreting Memes](https://arxiv.org/abs/2305.13703) \
+[MemeCap: A Dataset for Captioning and Interpreting Memes](https://aclanthology.org/2023.emnlp-main.89/) \
 **Eunjeong Hwang**, Vered Shwartz \
 *Long paper @ EMNLP 2023*
 
@@ -68,7 +69,7 @@ Research Experiences
 **University of British Columbia, 2022.09 - Present** \
 Research Assistant (w/ Dr. Vered Shwartz)
 
-**MIT-IBM Research, 2023.07 - Present** \
+**MIT-IBM Research, 2023.07 - 2023.12** \
 Research Intern (mentored by Veronika Thost and Dan Gutfreund)
 
 **Information Extraction and Synthesis Laboratory (IESL), UMass Amherst, 2020.05 - 2020.08**\
@@ -100,21 +101,14 @@ International Tuition Award, UBC, 2022.09 \
 Faculty of Science PhD Tuition Award, UBC, 2022.09
 
 
-Projects
+Services
 ------
-**Joint constrained learning using box embedding**\
- Implemented relation extraction model using box embedding. 
- Effectively reduced constraint violations in relations labels by utilizing box's inherent ability of handling anti-symmetric relations, 
- which indicates the output from the model is more coherent than our baseline vector model.
+- Workshop Co-organizer
+  - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
-**Virtual node augmented graph neural networks for link prediction**\
- Proposed virtual node augmented graph neural networks by using single virtual node to multiple virtual nodes for link prediction to capture long-range dependencies in graphs.
- Our model constantly produce better performance on large and dense graphs, such as ddi, collab, and ppa (OGB benchmark datasets).   
+- Reviewer/Program Committee
+  - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
-**Question answering on knowledge graph using box embedding**\
-  Implemented question answering model by embedding queries as probabilistic boxes using gumbel distribution.
-  Our model was more mathematically explainable than Query2Box model and produced similar performance.
+- Departmental Service
+  - UBC CS: Admission Committee Member for the CSE Ph.D. Program (2022)
 
-**Interdependency between stock market and financial news articles**\
-  Analyzed the interdependency between stock market and financial articles using sentiment analysis. 
-  Discovered trends that stock prices respond to social issues before the articles do. 
