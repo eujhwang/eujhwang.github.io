@@ -67,10 +67,13 @@ InfluencerOpinion: Mining opinions from Interviews \
 Research Experiences
 ------
 **University of British Columbia, 2022.09 - Present** \
-Research Assistant (w/ Dr. Vered Shwartz)
+Research Assistant (supervised by Dr. Vered Shwartz)
+
+**Google AI, 2024.01 - Present** \
+Research Intern (Host: Yichao Zhou, Beliz Gunel)
 
 **MIT-IBM Research, 2023.07 - 2023.12** \
-Research Intern (mentored by Veronika Thost and Dan Gutfreund)
+Research Intern (Host: Veronika Thost, Dan Gutfreund)
 
 **Information Extraction and Synthesis Laboratory (IESL), UMass Amherst, 2020.05 - 2020.08**\
 Research Intern
@@ -100,13 +103,19 @@ President's Academic Excellence Initiative PhD Award, UBC, 2022.09 \
 International Tuition Award, UBC, 2022.09 \
 Faculty of Science PhD Tuition Award, UBC, 2022.09
 
+Talks
+------
+- Invited talk at UT Asutin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb 8, 2024
+
 
 Services
 ------
 - Workshop Co-organizer
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
-- Reviewer/Program Committee
+- Reviewer
+  - ARR-ACL 2024 
+  - The First Workshop on Data Contamination (CONDA 2024) 
   - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
 - Departmental Service
