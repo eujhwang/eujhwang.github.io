@@ -35,6 +35,10 @@ News
 
 Publications
 ------
+A Graph per Persona: Reasoning about Subjective Natural Language Descriptions \
+**Eunjeong Hwang**, Vered Shwartz, Dan Gutfreund, Veronika Thost \
+*Under Review*
+
 InfluencerOpinion: Mining opinions from Interviews \
 **Eunjeong Hwang**, Niket Tandon, Bodhisattwa Prasad Majumder, Vered Shwartz \
 *Under Review*
@@ -114,7 +118,7 @@ Services
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
 - Reviewer
-  - ARR-ACL 2024 
+  - ARR-ACL 2024, *SEM 2024 
   - The First Workshop on Data Contamination (CONDA 2024) 
   - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
