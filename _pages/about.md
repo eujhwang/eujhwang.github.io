@@ -26,7 +26,7 @@ and I worked for IBM as an application developer for a year before starting Mast
 [//]: # (I primarily worked with members at [Information Extraction and Synthesis Laboratory &#40;IESL&#41;]&#40;http://www.iesl.cs.umass.edu/&#41; and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.)
 
 
-[CV](https://eujhwang.github.io/files/eunjeong_research_cv.pdf)
+[CV](https://eujhwang.github.io/files/eunjeong_resume.pdf)
 
 News
 ------
