@@ -13,23 +13,15 @@ I'm a PhD student at University of British Columbia and my supervisor is [Vered 
 My research interest is about incorporating implicit contexts into large language models.
 
 Before starting a PhD, I primarily worked with members at [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
-I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year 
-and I worked for IBM as an application developer for a year before starting Master's degree.
-
-[//]: # (I'm particularly interested in understanding and finding new insights from unstructured texts by transforming the text to structured form.)
-
-[//]: # (Ultimately, I would like to develop a simple, robust, and efficient model with an interpretable inference process that can be easily applied to industry.)
-
-[//]: # ()
-[//]: # (My most recent works are focused on relation extraction, geometric embedding, graph neural networks, and knowledge graphs.)
-
-[//]: # (I primarily worked with members at [Information Extraction and Synthesis Laboratory &#40;IESL&#41;]&#40;http://www.iesl.cs.umass.edu/&#41; and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.)
+I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year before starting PhD program, 
+and I worked for IBM as an application developer for a year before starting Master's program.
 
 
 [CV](https://eujhwang.github.io/files/eunjeong_resume.pdf)
 
 News
 ------
+- Started an internship with Google AI
 - I'm co-organizing [Personalization of Generative AI workshop @ EACL 2024](https://genpersonalization.github.io/) to be held in Malta!
 - 3 Papers accepted at EMNLP 2023!
 
@@ -37,10 +29,6 @@ Publications
 ------
 A Graph per Persona: Reasoning about Subjective Natural Language Descriptions \
 **Eunjeong Hwang**, Vered Shwartz, Dan Gutfreund, Veronika Thost \
-*Under Review*
-
-InfluencerOpinion: Mining opinions from Interviews \
-**Eunjeong Hwang**, Niket Tandon, Bodhisattwa Prasad Majumder, Vered Shwartz \
 *Under Review*
 
 [Knowledge Graph Compression Enhances Diverse Commonsense Generation](https://aclanthology.org/2023.emnlp-main.37/) \
@@ -62,11 +50,7 @@ InfluencerOpinion: Mining opinions from Interviews \
 [Event-Event Relation Extraction using Probabilistic Box Embedding](https://aclanthology.org/2022.acl-short.26/) \
 **Eunjeong Hwang**, Jay-Yoon Lee, Tianyi Yang, Dhruvesh Patel, Dongxu Zhang, Andrew McCallum \
 *ACL-short, 2022* [code](https://github.com/iesl/ce2ere)
-   
-[Interdependency between the stock market and financial news](https://www.computer.org/csdl/proceedings-article/big-data/2019/09006533/1hJsuZdq0la) \
-**Eunjeong Hwang**, Yong-Hyuk Kim \
-*IEEE BigData2019 workshop*
-   
+
 
 Research Experiences
 ------
@@ -101,14 +85,9 @@ Teaching Experience
 **University of Massachussets-Amherst, 2021.02 - 2021.05**\
 Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Connor)
 
-Awards
-------
-President's Academic Excellence Initiative PhD Award, UBC, 2022.09 \
-International Tuition Award, UBC, 2022.09 \
-Faculty of Science PhD Tuition Award, UBC, 2022.09
-
 Talks
 ------
+- Career Panel Discussion at UMass-Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024), Apr 26, 2024
 - Invited talk at UT Asutin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb 8, 2024
 
 
@@ -117,11 +96,16 @@ Services
 - Workshop Co-organizer
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
-- Reviewer
-  - ARR-ACL 2024, *SEM 2024 
+- Reviewer/Program Committee
+  - ARR-ACL 2024, *SEM 2024, CIKM 2024
   - The First Workshop on Data Contamination (CONDA 2024) 
   - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
 - Departmental Service
   - UBC CS: Admission Committee Member for the CSE Ph.D. Program (2022)
 
+Awards
+------
+President's Academic Excellence Initiative PhD Award, UBC, 2022.09 \
+International Tuition Award, UBC, 2022.09 \
+Faculty of Science PhD Tuition Award, UBC, 2022.09
