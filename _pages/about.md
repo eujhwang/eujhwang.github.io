@@ -29,7 +29,7 @@ Publications
 ------
 A Graph per Persona: Reasoning about Subjective Natural Language Descriptions \
 **Eunjeong Hwang**, Vered Shwartz, Dan Gutfreund, Veronika Thost \
-*Under Review*
+*Long paper @ Findings of ACL 2024*
 
 [Knowledge Graph Compression Enhances Diverse Commonsense Generation](https://aclanthology.org/2023.emnlp-main.37/) \
 **Eunjeong Hwang**, Veronika Thost, Vered Shwartz, Tengfei Ma \
