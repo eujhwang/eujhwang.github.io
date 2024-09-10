@@ -88,7 +88,7 @@ Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Con
 
 Talks
 ------
-- Invited talk at Seoul National University's reading group (Host: Jayyoon lee) ([slides](https://eujhwang.github.io/files/snu-reading-group.pdf)), Sep 9, 2024
+- Invited talk at Seoul National University's reading group (Host: Jayyoon lee), Sep 9, 2024, [slides](https://eujhwang.github.io/files/snu-reading-group.pdf)
 - Career Panel Discussion at UMass-Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024), Apr 26, 2024
 - Invited talk at UT Asutin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb 8, 2024
 
