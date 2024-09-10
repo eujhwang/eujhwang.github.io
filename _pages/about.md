@@ -21,13 +21,14 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 News
 ------
-- Started an internship with Google AI
+- 1 Paper accepted at ACL-Findings 2024
+- Started an internship with Google Deepmind
 - I'm co-organizing [Personalization of Generative AI workshop @ EACL 2024](https://genpersonalization.github.io/) to be held in Malta!
 - 3 Papers accepted at EMNLP 2023!
 
 Publications
 ------
-A Graph per Persona: Reasoning about Subjective Natural Language Descriptions \
+[A Graph per Persona: Reasoning about Subjective Natural Language Descriptions](https://aclanthology.org/2024.findings-acl.115/) \
 **Eunjeong Hwang**, Vered Shwartz, Dan Gutfreund, Veronika Thost \
 *Long paper @ Findings of ACL 2024*
 
@@ -57,7 +58,7 @@ Research Experiences
 **University of British Columbia, 2022.09 - Present** \
 Research Assistant (supervised by Dr. Vered Shwartz)
 
-**Google AI, 2024.01 - Present** \
+**Google Deepmind, 2024.01 - 2024.06** \
 Research Intern (Host: Yichao Zhou, Beliz Gunel)
 
 **MIT-IBM Research, 2023.07 - 2023.12** \
@@ -87,6 +88,7 @@ Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Con
 
 Talks
 ------
+- Invited talk at Seoul National University (Host: Jayyoon lee) [slides](https://eujhwang.github.io/files/snu-reading-group.pdf)
 - Career Panel Discussion at UMass-Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024), Apr 26, 2024
 - Invited talk at UT Asutin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb 8, 2024
 
@@ -97,7 +99,7 @@ Services
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
 - Reviewer/Program Committee
-  - ARR-ACL 2024, *SEM 2024, CIKM 2024
+  - ARR/ACL/EMNLP 2024, *SEM 2024, CIKM 2024
   - The First Workshop on Data Contamination (CONDA 2024) 
   - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
