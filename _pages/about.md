@@ -21,6 +21,7 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 News
 ------
+- 2 Papers accepted at EMNLP 2024
 - 1 Paper accepted at ACL-Findings 2024
 - Started an internship with Google Deepmind
 - I'm co-organizing [Personalization of Generative AI workshop @ EACL 2024](https://genpersonalization.github.io/) to be held in Malta!
@@ -28,6 +29,14 @@ News
 
 Publications
 ------
+[Enhancing Incremental Summarization with Structured Representations](https://arxiv.org/abs/2407.15021) \
+**EunJeong Hwang**, Yichao Zhou, James Bradley Wendt, Beliz Gunel, Nguyen Vo, Jing Xie, Sandeep Tata \
+*Short paper @ Findings of EMNLP 2024*
+
+[From Local Concepts to Universals: Evaluating the Multicultural Understanding of Vision-Language Models](https://arxiv.org/pdf/2407.00263) \
+Mehar Bhatia, Sahithya Ravi, Aditya Chinchure, **Eunjeong Hwang**, Vered Shwartz \
+*Long paper @ EMNLP 2024*
+
 [A Graph per Persona: Reasoning about Subjective Natural Language Descriptions](https://aclanthology.org/2024.findings-acl.115/) \
 **Eunjeong Hwang**, Vered Shwartz, Dan Gutfreund, Veronika Thost \
 *Long paper @ Findings of ACL 2024*
