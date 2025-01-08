@@ -21,6 +21,8 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 News
 ------
+- Organized [Future of NLP Workshop @ UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) as a pre-NeurIPS event!
+- 1 Paper accepted at COLING 2025
 - 2 Papers accepted at EMNLP 2024
 - 1 Paper accepted at ACL-Findings 2024
 - Started an internship with Google Deepmind
@@ -29,6 +31,10 @@ News
 
 Publications
 ------
+[SUMIE: A Synthetic Benchmark for Incremental Entity Summarization](https://arxiv.org/abs/2406.05079) \
+**EunJeong Hwang^**, Yichao Zhou^, Beliz Gunel, James Bradley Wendt, Sandeep Tata \
+*Long paper @ COLING 2025*
+
 [Enhancing Incremental Summarization with Structured Representations](https://arxiv.org/abs/2407.15021) \
 **EunJeong Hwang**, Yichao Zhou, James Bradley Wendt, Beliz Gunel, Nguyen Vo, Jing Xie, Sandeep Tata \
 *Short paper @ Findings of EMNLP 2024*
@@ -105,6 +111,7 @@ Talks
 Services
 ------
 - Workshop Co-organizer
+  - [Future of NLP workshop at UBC (pre-NeurIPS 2024 event)](https://nlp.cs.ubc.ca/future-of-nlp-workshop)
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
 - Reviewer/Program Committee
