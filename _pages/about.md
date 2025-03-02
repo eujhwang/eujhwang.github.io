@@ -115,7 +115,7 @@ Services
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
 - Reviewer/Program Committee
-  - ARR/ACL/EMNLP 2024, *SEM 2024, CIKM 2024
+  - ARR/ACL/EMNLP (2024,2025), *SEM 2024, CIKM 2024
   - The First Workshop on Data Contamination (CONDA 2024) 
   - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
@@ -124,6 +124,6 @@ Services
 
 Awards
 ------
-President's Academic Excellence Initiative PhD Award, UBC, 2022.09 \
-International Tuition Award, UBC, 2022.09 \
-Faculty of Science PhD Tuition Award, UBC, 2022.09
+President's Academic Excellence Initiative PhD Award, UBC, 2022.09- \
+International Tuition Award, UBC, 2022.09- \
+Faculty of Science PhD Tuition Award, UBC, 2022.09-
