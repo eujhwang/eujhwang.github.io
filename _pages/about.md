@@ -10,7 +10,8 @@ redirect_from:
 
 I'm a PhD student at University of British Columbia and my supervisor is [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
 
-My research interest is about incorporating implicit contexts into large language models.
+My research focuses on improving the reasoning capabilities of multimodal models by integrating extra-linguistic contexts through transparent and controllable processes. 
+My ultimate goal is to develop a reliable multimodal AI assistant that enhances human decision-making and serves as a valuable tool, without replacing human agency.
 
 Before starting a PhD, I primarily worked with members at [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
 I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year before starting PhD program, 
@@ -21,6 +22,8 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 News
 ------
+- Awarded $3000 CAD Travel Grant by [IVADO](https://ivado.ca/en/) to attend the week-long seminar, [Safety & Guaranteed LLMs](https://ivado.ca/en/events/safety-guaranteed-llms/), at the Simons Institute, UC Berkeley
+- Severd as a mentor and judge at [cmd-f: Western Canada’s largest hackathon for underrepresented genders in tech](https://cmd-f.nwplus.io/)
 - Organized [Future of NLP Workshop @ UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) as a pre-NeurIPS event!
 - 1 Paper accepted at COLING 2025
 - 2 Papers accepted at EMNLP 2024
@@ -31,6 +34,14 @@ News
 
 Publications
 ------
+[BottleHumor: Self-Informed Humor Explanation using the Information Bottleneck Principle](https://arxiv.org/abs/2502.18331) \
+**EunJeong Hwang**, Peter West, Vered Shwartz \
+*In Submission*
+
+[SWI: Speaking with Intent in Large Language Models](https://arxiv.org/abs/2503.21544) \
+Yuwei Yin, **EunJeong Hwang**, Giuseppe Carenini \
+*In Submission*
+
 [SUMIE: A Synthetic Benchmark for Incremental Entity Summarization](https://arxiv.org/abs/2406.05079) \
 **EunJeong Hwang^**, Yichao Zhou^, Beliz Gunel, James Bradley Wendt, Sandeep Tata \
 *Long paper @ COLING 2025*
@@ -104,7 +115,7 @@ Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Con
 Talks
 ------
 - Invited talk at Seoul National University's reading group (Host: Prof. Jayyoon lee), Sep 9, 2024, [slides](https://eujhwang.github.io/files/snu-reading-group.pdf)
-- Career Panel Discussion at UMass-Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024), Apr 26, 2024
+- Career Panel Discussion at UMass-Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024), Apr. 2024, May. 2025
 - Invited talk at UT Asutin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb 8, 2024
 
 
@@ -115,12 +126,16 @@ Services
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
 - Reviewer/Program Committee
-  - ARR/ACL/EMNLP (2024,2025), *SEM 2024, CIKM 2024
+  - ARR/ACL/EMNLP (2024,2025), COLM (2025), *SEM 2024, CIKM (2024, 2025)
   - The First Workshop on Data Contamination (CONDA 2024) 
   - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
 - Departmental Service
+  - [Vector Institute Scholarship Adjudication Committee](https://vectorinstitute.ai/programs/scholarship/) 2025-2026
   - UBC CS: Admission Committee Member for the CSE Ph.D. Program (2022)
+
+- Mentoring
+  - Mentor and judge @ [cmd-f: Western Canada's largest hackathon for underrepresented genders in tech](https://cmd-f.nwplus.io/) (2025)
 
 Awards
 ------
