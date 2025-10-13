@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at University of British Columbia and my supervisor is [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). 
+I'm a PhD student at University of British Columbia and my supervisor is [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). I collaborate with [Peter West](https://peterwestai.notion.site/) frequently on multiple projects. 
 
 My research focuses on improving the reasoning capabilities of multimodal models by integrating extra-linguistic contexts through transparent and controllable processes. 
 My ultimate goal is to develop a reliable multimodal AI assistant that enhances human decision-making and serves as a valuable tool, without replacing human agency.
@@ -22,6 +22,8 @@ and I worked for IBM as an application developer for a year before starting Mast
 
 News
 ------
+- 1 Paper accepted at ACL 2025
+- 1 Paper accepted at INLG 2025
 - Awarded $3000 CAD Travel Grant by [IVADO](https://ivado.ca/en/) to attend the week-long seminar, [Safety & Guaranteed LLMs](https://ivado.ca/en/events/safety-guaranteed-llms/), at the Simons Institute, UC Berkeley
 - Severd as a mentor and judge at [cmd-f: Western Canada’s largest hackathon for underrepresented genders in tech](https://cmd-f.nwplus.io/)
 - Organized [Future of NLP Workshop @ UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) as a pre-NeurIPS event!
@@ -34,13 +36,17 @@ News
 
 Publications
 ------
+[Infusing Theory of Mind into Socially Intelligent LLM Agents](https://www.arxiv.org/abs/2509.22887) \
+**EunJeong Hwang^**, Yuwei Yin^, Giuseppe Carenini, Peter West, Vered Shwartz \
+*Submitted to ICLR 2026*
+
 [BottleHumor: Self-Informed Humor Explanation using the Information Bottleneck Principle](https://arxiv.org/abs/2502.18331) \
 **EunJeong Hwang**, Peter West, Vered Shwartz \
-*In Submission*
+*Long paper @ Findings of ACL 2025*
 
 [SWI: Speaking with Intent in Large Language Models](https://arxiv.org/abs/2503.21544) \
 Yuwei Yin, **EunJeong Hwang**, Giuseppe Carenini \
-*In Submission*
+*Long paper @ INLG 2025*
 
 [SUMIE: A Synthetic Benchmark for Incremental Entity Summarization](https://arxiv.org/abs/2406.05079) \
 **EunJeong Hwang^**, Yichao Zhou^, Beliz Gunel, James Bradley Wendt, Sandeep Tata \
@@ -114,6 +120,7 @@ Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Con
 
 Talks
 ------
+- [Planned] Invited talk at [ResearchTrends.ai](https://www.youtube.com/@ResearchTrendAI) (Host: Prof. SeongJoon Oh), Oct. 29, 2025
 - Invited talk at Seoul National University's reading group (Host: Prof. Jayyoon lee), Sep 9, 2024, [slides](https://eujhwang.github.io/files/snu-reading-group.pdf)
 - Career Panel Discussion at UMass-Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024), Apr. 2024, May. 2025
 - Invited talk at UT Asutin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb 8, 2024
