@@ -17,7 +17,7 @@ Before starting a PhD, I primarily worked with members at [Information Extractio
 I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year before starting PhD program, 
 and I worked for IBM as an application developer for a year before starting Master's program.
 
-
+See my CV! It sometimes has more up-to-date information than the current website :) \
 [CV](https://eujhwang.github.io/files/eunjeong_resume.pdf)
 
 News
@@ -36,9 +36,14 @@ News
 
 Publications
 ------
+[Agents of Chaos](https://arxiv.org/abs/2602.20021) \
+Natalie Shapira, Chris Wendler, ..., **EunJeong Hwang**, ..., Tomer Ullman, David Bau \
+*Arxiv Preprint* \
+My contribution: First to identify the **Owner Identity Spoofing** vulnerability (Chapter 8) and wrote the Related Work section on **Theory of Mind limitations in agentic systems**.
+
 [Infusing Theory of Mind into Socially Intelligent LLM Agents](https://www.arxiv.org/abs/2509.22887) \
 **EunJeong Hwang^**, Yuwei Yin^, Giuseppe Carenini, Peter West, Vered Shwartz \
-*Submitted to ICLR 2026*
+*Submitted to ACL 2026*
 
 [BottleHumor: Self-Informed Humor Explanation using the Information Bottleneck Principle](https://arxiv.org/abs/2502.18331) \
 **EunJeong Hwang**, Peter West, Vered Shwartz \
@@ -120,7 +125,8 @@ Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Con
 
 Talks
 ------
-- [Planned] Invited talk at [ResearchTrends.ai](https://www.youtube.com/@ResearchTrendAI) (Host: Prof. SeongJoon Oh), Oct. 29, 2025
+- Invited to give a talk at [Boson AI](https://www.boson.ai/) (Host: [Alex Smola (CEO of BosonAI)](https://alex.smola.org/)), Happening soon in the summer, 2026!
+- Invited talk at [ResearchTrends.ai](https://www.youtube.com/@ResearchTrendAI) (Host: Prof. SeongJoon Oh), Nov. 26, 2025
 - Invited talk at Seoul National University's reading group (Host: Prof. Jayyoon lee), Sep 9, 2024, [slides](https://eujhwang.github.io/files/snu-reading-group.pdf)
 - Career Panel Discussion at UMass-Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024), Apr. 2024, May. 2025
 - Invited talk at UT Asutin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb 8, 2024
@@ -129,16 +135,17 @@ Talks
 Services
 ------
 - Workshop Co-organizer
+  - [SocialLLM: Large Language Models for Social Reasoning and Simulation @ ICWSM 2026](https://social-llm-workshop.github.io/)
   - [Future of NLP workshop at UBC (pre-NeurIPS 2024 event)](https://nlp.cs.ubc.ca/future-of-nlp-workshop)
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
 - Reviewer/Program Committee
-  - ARR/ACL/EMNLP (2024,2025), COLM (2025), *SEM 2024, CIKM (2024, 2025)
+  - ECCV(2026), ARR (2024, 2025, 2026 -), COLM (2025, 2026), CVPR (2025), ICLR (2025), *SEM 2024, CIKM (2024, 2025)
   - The First Workshop on Data Contamination (CONDA 2024) 
   - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
 - Departmental Service
-  - [Vector Institute Scholarship Adjudication Committee](https://vectorinstitute.ai/programs/scholarship/) 2025-2026
+  - [Vector Institute Scholarship Adjudication Committee](https://vectorinstitute.ai/programs/scholarship/) (2025-2027)
   - UBC CS: Admission Committee Member for the CSE Ph.D. Program (2022)
 
 - Mentoring
