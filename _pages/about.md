@@ -39,7 +39,7 @@ Publications
 [Agents of Chaos](https://arxiv.org/abs/2602.20021) \
 Natalie Shapira, Chris Wendler, ..., **EunJeong Hwang**, ..., Tomer Ullman, David Bau \
 *Arxiv Preprint* \
-My contribution: First to identify the **Owner Identity Spoofing** vulnerability (Chapter 8) and wrote the Related Work section on **Theory of Mind limitations in agentic systems**.
+My contribution: First to identify and wrote **Owner Identity Spoofing** vulnerability (Chapter 8) and wrote the Related Work section on **Theory of Mind limitations in agentic systems**.
 
 [Infusing Theory of Mind into Socially Intelligent LLM Agents](https://www.arxiv.org/abs/2509.22887) \
 **EunJeong Hwang^**, Yuwei Yin^, Giuseppe Carenini, Peter West, Vered Shwartz \
