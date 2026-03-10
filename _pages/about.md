@@ -8,31 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at University of British Columbia and my supervisor is [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). I collaborate with [Peter West](https://peterwestai.notion.site/) frequently on multiple projects. 
+I'm a PhD student in Computer Science at the University of British Columbia, advised by [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/). I frequently collaborate with [Peter West](https://peterwestai.notion.site/) and other fantastic colleagues on multiple projects. 
 
-My research focuses on improving the reasoning capabilities of multimodal models by integrating extra-linguistic contexts through transparent and controllable processes. 
-My ultimate goal is to develop a reliable multimodal AI assistant that enhances human decision-making and serves as a valuable tool, without replacing human agency.
+My research focuses on making reasoning AI models interpreatable and adaptable by understanding implicit contexts that exist across multiple modalities in diverse situations. 
+My ultimate goal is to develop a reliable AI assistant that enhances human decision-making and serves as a valuable tool, without replacing human agency.
 
-Before starting a PhD, I primarily worked with members at [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/) and IBM Research while receiving a MS in Computer Science at the University of Massachusetts-Amherst.
-I also spent some time in industry, I worked for Naver in Knowledge Base team for about a year before starting PhD program, 
-and I worked for IBM as an application developer for a year before starting Master's program.
+Before starting my PhD, I primarily worked with members of the [Information Extraction and Synthesis Laboratory (IESL)](http://www.iesl.cs.umass.edu/) and IBM Research while receiving an MS in Computer Science at the University of Massachusetts Amherst. I also spent time in industry: I worked on the Knowledge Base team at Naver for about a year before starting my PhD, and I worked at IBM as an application developer for about a year before starting my Master's program.
 
-See my CV! It sometimes has more up-to-date information than the current website :) \
-[CV](https://eujhwang.github.io/files/eunjeong_resume.pdf)
+You can find (sometimes more) detailed and up-to-date information in my CV: \
+[Full CV (PDF)](https://eujhwang.github.io/files/eunjeong_resume.pdf)
 
-News
-------
-- 1 Paper accepted at ACL 2025
-- 1 Paper accepted at INLG 2025
-- Awarded $3000 CAD Travel Grant by [IVADO](https://ivado.ca/en/) to attend the week-long seminar, [Safety & Guaranteed LLMs](https://ivado.ca/en/events/safety-guaranteed-llms/), at the Simons Institute, UC Berkeley
-- Severd as a mentor and judge at [cmd-f: Western Canada’s largest hackathon for underrepresented genders in tech](https://cmd-f.nwplus.io/)
-- Organized [Future of NLP Workshop @ UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) as a pre-NeurIPS event!
-- 1 Paper accepted at COLING 2025
-- 2 Papers accepted at EMNLP 2024
-- 1 Paper accepted at ACL-Findings 2024
-- Started an internship with Google Deepmind
-- I'm co-organizing [Personalization of Generative AI workshop @ EACL 2024](https://genpersonalization.github.io/) to be held in Malta!
-- 3 Papers accepted at EMNLP 2023!
+### News
+
+- 2025: 1 paper accepted at ACL 2025
+- 2025: 1 paper accepted at INLG 2025
+- 2025: Awarded a $3000 CAD Travel Grant by [IVADO](https://ivado.ca/en/) to attend the week-long seminar, [Safety & Guaranteed LLMs](https://ivado.ca/en/events/safety-guaranteed-llms/), at the Simons Institute, UC Berkeley
+- 2025: Served as a mentor and judge at [cmd-f: Western Canada’s largest hackathon for underrepresented genders in tech](https://cmd-f.nwplus.io/)
+- 2024: Organized [Future of NLP Workshop @ UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) as a pre-NeurIPS event
+- 2024: 1 paper accepted at COLING 2025
+- 2024: 2 papers accepted at EMNLP 2024
+- 2024: 1 paper accepted at ACL-Findings 2024
+- 2024: Started a research internship with Google DeepMind
+- 2024: Co-organizing [Personalization of Generative AI workshop @ EACL 2024](https://genpersonalization.github.io/) in Malta
+- 2023: 3 papers accepted at EMNLP 2023
 
 Publications
 ------
@@ -40,6 +38,10 @@ Publications
 Natalie Shapira, Chris Wendler, ..., **EunJeong Hwang**, ..., Tomer Ullman, David Bau \
 *Arxiv Preprint* \
 My contribution: First to identify and wrote **Owner Identity Spoofing** vulnerability (Chapter 8) and wrote the Related Work section on **Theory of Mind limitations in agentic systems**.
+
+[Watch Before You Answer: Learning from Visually Grounded Post-Training] \
+Yuxuan Zhang, **EunJeong Hwang**, Yiming Jia, Penghui Du, Peter West, Kelsey R Allen \
+*Submitted to ECCV 2026*
 
 [Infusing Theory of Mind into Socially Intelligent LLM Agents](https://www.arxiv.org/abs/2509.22887) \
 **EunJeong Hwang^**, Yuwei Yin^, Giuseppe Carenini, Peter West, Vered Shwartz \
@@ -90,69 +92,79 @@ Mehar Bhatia, Sahithya Ravi, Aditya Chinchure, **Eunjeong Hwang**, Vered Shwartz
 *ACL-short, 2022* [code](https://github.com/iesl/ce2ere)
 
 
-Research Experiences
-------
-**University of British Columbia, 2022.09 - Present** \
-Research Assistant (supervised by Dr. Vered Shwartz)
+### Research Experience
 
-**Google Deepmind, 2024.01 - 2024.06** \
-Research Intern (Host: Yichao Zhou, Beliz Gunel)
-
-**MIT-IBM Research, 2023.07 - 2023.12** \
-Research Intern (Host: Veronika Thost, Dan Gutfreund)
-
-**Information Extraction and Synthesis Laboratory (IESL), UMass Amherst, 2020.05 - 2020.08**\
-Research Intern
+- **University of British Columbia, Vancouver, Canada (2022.09–Present)**  
+  Research Assistant (supervised by Prof. Vered Shwartz). Working on implicit social reasoning, mental simulation in LLMs, and aligning models with user beliefs and preferences.
+- **Megagon Labs, Mountain View, CA (2026.04–2026.06)**  
+  Research Intern (Hosts: Hannah Kim, Dan Zhang).
+- **OpenAI, Remote (2026.03)**  
+  Red-teaming member (contract). Participated in an internal red-teaming sprint.
+- **Google DeepMind, Remote (2024.01–2024.06)**  
+  Research Intern (Hosts: Yichao Zhou, Beliz Gunel). Worked on incremental structured summaries and resolving knowledge conflicts.
+- **MIT-IBM Research, Boston, MA (2023.07–2023.12)**  
+  Research Intern (Hosts: Veronika Thost, Dan Gutfreund). Worked on reasoning about subjective opinions using graph structures.
+- **Allen Institute for AI (AI2), Remote (2023.04–2023.12)**  
+  Research Collaborator (Mentors: Bodhisattwa Prasad Majumder, Niket Tandon). Worked on aligning language models to user opinions.
+- **UMass Amherst–IBM, Remote (2021.02–2021.10)**  
+  Graduate Student Researcher (Mentors: Veronika Thost, Tengfei Ma). Investigated virtual node–augmented GNNs for link prediction.
+- **Information Extraction and Synthesis Laboratory (IESL), UMass Amherst (2020.01–2021.08)**  
+  Graduate Student Researcher (Mentors: Jay-Yoon Lee, Michael Boratko). Worked on probabilistic box embeddings for relation extraction and QA.
   
-Work Experiences
-------
-**Naver, S. Korea, 2021.03 - 2022.06**\
-Software Engineer at Knowledge Base team
+### Work Experience
 
-**IBM, S. Korea, 2018.01 - 2019.04**\
-Application Developer
+- **Naver, Seongnam, Korea (2021.03–2022.06)**  
+  Software Engineer, Knowledge Base team. Built knowledge graphs over regional entities (restaurants, festivals, exhibitions) and deployed search/expansion systems (e.g., Neo4j-backed query expansion, weather-related search).
+- **IBM, Seoul, Korea (2018.01–2019.04)**  
+  Application Developer. Worked on financial text mining and surveillance systems for clients including Shinhan Financial Group, Standard Chartered Bank, and Hanwha.
+- **IBM, Seoul, Korea (2017.09–2017.12)**  
+  Application Developer Intern. Designed database schemas and implemented learning platform features aligned with UX designs.
+- **The Development Factory, Australia (2017.01–2017.02)**  
+  Software Engineer Intern.
 
-**IBM, S. Korea, 2017.09 - 2017.12**\
-Application Developer Intern
+### Teaching Experience
 
-**The Development Factory, Australia, 2017.01 - 2017.02**\
-Software Engineer Intern
+- **UBC, CPSC 532V – Commonsense Reasoning (2026.01–2026.04)**  
+  Teaching Assistant (Prof. Vered Shwartz). Designed, supported, and graded assignments and projects.
+- **UBC, CPSC 532V – Commonsense Reasoning (2025.01–2025.04)**  
+  Teaching Assistant (Prof. Vered Shwartz). Helped and graded student assignments and projects.
+- **UBC, CPSC 532V – Commonsense Reasoning (2024.02)**  
+  Guest lecture on multimodal commonsense, vision–language models, and future directions.
+- **University of Massachusetts Amherst, CS685 Advanced Natural Language Processing (2021.02–2021.05)**  
+  Grader (Prof. Brendan O’Connor). Graded assignments and provided feedback to students.
 
-Teaching Experience
-------
-**University of Massachussets-Amherst, 2021.02 - 2021.05**\
-Grader at CS685 Graduate Natural Language Processing course (Prof. Brendan O'Connor)
+### Talks
 
-Talks
-------
-- Invited to give a talk at [Boson AI](https://www.boson.ai/) (Host: [Alex Smola (CEO of BosonAI)](https://alex.smola.org/)), Happening soon in the summer, 2026!
-- Invited talk at [ResearchTrends.ai](https://www.youtube.com/@ResearchTrendAI) (Host: Prof. SeongJoon Oh), Nov. 26, 2025
-- Invited talk at Seoul National University's reading group (Host: Prof. Jayyoon lee), Sep 9, 2024, [slides](https://eujhwang.github.io/files/snu-reading-group.pdf)
-- Career Panel Discussion at UMass-Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024), Apr. 2024, May. 2025
-- Invited talk at UT Asutin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb 8, 2024
+- Invited to give a talk at [Boson AI](https://www.boson.ai/) (Host: [Alex Smola (CEO of BosonAI)](https://alex.smola.org/)), happening in summer 2026.
+- Invited talk at [ResearchTrend.ai](https://www.youtube.com/@ResearchTrendAI) (Host: Prof. SeongJoon Oh), Nov. 26, 2025.
+- Invited talk at Seoul National University's reading group (Host: Prof. Jay-Yoon Lee), Sep. 9, 2024, [slides](https://eujhwang.github.io/files/snu-reading-group.pdf).
+- Career panel discussion at UMass Amherst (Host: Prof. Andrew McCallum at [696DS](https://sites.google.com/umass.edu/compsci696ds-spring2024)), Apr. 2024 and May 2025.
+- Invited talk at UT Austin (Host: Prof. Jessy Li at [LIN 393](https://jessyli.com/courses/lin393)), Feb. 8, 2024.
 
+### Service
 
-Services
-------
-- Workshop Co-organizer
+- **Workshop co-organization**
   - [SocialLLM: Large Language Models for Social Reasoning and Simulation @ ICWSM 2026](https://social-llm-workshop.github.io/)
   - [Future of NLP workshop at UBC (pre-NeurIPS 2024 event)](https://nlp.cs.ubc.ca/future-of-nlp-workshop)
   - [1st Personalization of Generative AI workshop (PERSONALIZE @ EACL 2024)](https://genpersonalization.github.io/)
 
-- Reviewer/Program Committee
-  - ECCV(2026), ARR (2024, 2025, 2026 -), COLM (2025, 2026), CVPR (2025), ICLR (2025), *SEM 2024, CIKM (2024, 2025)
+- **Reviewer / Program committee**
+  - ECCV (2026), ARR (2024, 2025, 2026– ), COLM (2025, 2026), CVPR (2025), ICLR (2025), *SEM (2024), CIKM (2024, 2025)
   - The First Workshop on Data Contamination (CONDA 2024) 
   - AAAI Workshop on Responsible Language Models (ReLM 2024)
 
-- Departmental Service
-  - [Vector Institute Scholarship Adjudication Committee](https://vectorinstitute.ai/programs/scholarship/) (2025-2027)
-  - UBC CS: Admission Committee Member for the CSE Ph.D. Program (2022)
+- **Departmental & community service**
+  - [Vector Institute Scholarship Adjudication Committee](https://vectorinstitute.ai/programs/scholarship/) (2025–2027)
+  - UBC CS: Admission Committee member for the CSE Ph.D. Program (2022)
+  - Volunteer at The Women in Machine Learning Symposium (WiML @ ICML 2025)
 
-- Mentoring
+- **Mentoring**
   - Mentor and judge @ [cmd-f: Western Canada's largest hackathon for underrepresented genders in tech](https://cmd-f.nwplus.io/) (2025)
 
-Awards
-------
-President's Academic Excellence Initiative PhD Award, UBC, 2022.09- \
-International Tuition Award, UBC, 2022.09- \
-Faculty of Science PhD Tuition Award, UBC, 2022.09-
+### Awards
+
+- Travel Grant — IVADO (Mar. 2025): Awarded $3000 CAD to attend the week-long seminar *Safety & Guaranteed LLMs* at the Simons Institute, UC Berkeley.
+- President's Academic Excellence Initiative PhD Award, UBC (2022.09– )
+- International Tuition Award, UBC (2022.09– )
+- Faculty of Science PhD Tuition Award, UBC (2022.09– )
+- Merit Scholarship — Kwangwoon University (2014.03–2015.09): Three Academic Excellence Scholarships for outstanding GPA.
