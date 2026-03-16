@@ -95,11 +95,13 @@ Mehar Bhatia, Sahithya Ravi, Aditya Chinchure, **Eunjeong Hwang**, Vered Shwartz
 ### Research Experience
 
 - **University of British Columbia, Vancouver, Canada (2022.09–Present)**  
-  Research Assistant (supervised by Prof. Vered Shwartz). Working on implicit social reasoning, mental simulation in LLMs, and aligning models with user beliefs and preferences.
-- **Megagon Labs, Mountain View, CA (2026.04–2026.06)**  
-  Research Intern (Hosts: Hannah Kim, Dan Zhang).
+  Research Assistant (supervised by Prof. Vered Shwartz). Working on implicit social reasoning, mental simulation in LLMs under multi-agents/multi-turn settings, and aligning models with user beliefs and preferences.
+- **Amazon-Alexa, Bellevuew, WA (Incoming)**  
+  Research Intern (Hosts: JooKyung Kim).
+- **Megagon Labs, Mountain View, CA (Incoming)**  
+  Research Intern (Hosts: Kushan Mitra, Hannah Kim, Dan Zhang).
 - **OpenAI, Remote (2026.03)**  
-  Red-teaming member (contract). Participated in an internal red-teaming sprint.
+  Red-teaming member (contract).
 - **Google DeepMind, Remote (2024.01–2024.06)**  
   Research Intern (Hosts: Yichao Zhou, Beliz Gunel). Worked on incremental structured summaries and resolving knowledge conflicts.
 - **MIT-IBM Research, Boston, MA (2023.07–2023.12)**  
